@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.88bfb98e.css",
-    "main.js": "/react-gh-pages/static/js/main.8b1169b3.js",
-    "static/js/787.393238a3.chunk.js": "/react-gh-pages/static/js/787.393238a3.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.88bfb98e.css.map": "/react-gh-pages/static/css/main.88bfb98e.css.map",
-    "main.8b1169b3.js.map": "/react-gh-pages/static/js/main.8b1169b3.js.map",
-    "787.393238a3.chunk.js.map": "/react-gh-pages/static/js/787.393238a3.chunk.js.map"
+    "main.css": "/ttc-game/static/css/main.88bfb98e.css",
+    "main.js": "/ttc-game/static/js/main.8a09c3a8.js",
+    "static/js/787.393238a3.chunk.js": "/ttc-game/static/js/787.393238a3.chunk.js",
+    "index.html": "/ttc-game/index.html",
+    "main.88bfb98e.css.map": "/ttc-game/static/css/main.88bfb98e.css.map",
+    "main.8a09c3a8.js.map": "/ttc-game/static/js/main.8a09c3a8.js.map",
+    "787.393238a3.chunk.js.map": "/ttc-game/static/js/787.393238a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88bfb98e.css",
-    "static/js/main.8b1169b3.js"
+    "static/js/main.8a09c3a8.js"
   ]
 }
